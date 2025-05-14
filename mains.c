@@ -1,3 +1,8 @@
+
+
+//@author Imran Kassim and Jovanny Caballero
+
+
 #include "TM4C123GH6PM.h"
 
 void delayMs(int n) {
